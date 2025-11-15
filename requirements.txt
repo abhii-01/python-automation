@@ -1,0 +1,32 @@
+# Jupyter and notebook essentials
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Web automation and scraping
+selenium>=4.15.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+youtube-transcript-api>=0.6.0
+
+# File handling
+openpyxl>=3.1.0  # Excel files
+python-docx>=1.1.0  # Word documents
+PyPDF2>=3.0.0  # PDF files
+
+# Automation utilities
+schedule>=1.2.0  # Task scheduling
+python-dotenv>=1.0.0  # Environment variables
+tqdm>=4.66.0  # Progress bars
+
+# Email automation
+smtplib  # Built-in, but listed for reference
+
+# Additional utilities
+pyautogui>=0.9.54  # GUI automation
+pillow>=10.0.0  # Image processing
+
